@@ -1,0 +1,2 @@
+int c,b,d; float e,f,a;
+a=(1-b+5)*(c*d+(f/6));
